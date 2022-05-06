@@ -1,9 +1,10 @@
 # Ejericico_Tabla_Hash_Examen_2
-# Erick Estuardo Canrey COjolón
-# 0910-13-2153
-# Programación III
+ Erick Estuardo Canrey COjolón
+ 0910-13-2153
+ Programación III
 
-TABLAS HASH (Ver resultado hasta abajo)
+# TABLAS HASH
+(Ver resultado hasta abajo)
 ____________________________________________________________
 
 Crear un programa en el lenguaje de programación de su preferencia, que me permita declarar una variable con la sintaxis de C++ en un campo de texto multilínea
