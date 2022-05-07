@@ -1,6 +1,8 @@
 # Ejericico_Tabla_Hash_Examen_2
  Erick Estuardo Canrey COjolón
+ 
  0910-13-2153
+ 
  Programación III
 
 # TABLAS HASH
